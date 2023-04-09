@@ -1,0 +1,12 @@
+{
+  "Birthday": "2004-04-01T00:00:00+08:00",
+  "Bonus": 0,
+  "CashbackPercent": 0,
+  "CityId": 272,
+  "ClientServiceCenterId": 1351,
+  "Roles": [
+    "User",
+    "Client",
+    "Other"
+  ]
+}
